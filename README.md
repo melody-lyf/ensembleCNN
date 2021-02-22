@@ -1,13 +1,9 @@
-#数据集简介
+#Dataset
 
-为了满足傣文识别的需要，本实验室构建了一个手写德宏傣文样本库SDH2019.2,共35个类别，每一类620张样本，共有21700张样本图像。
+In order to meet the needs of Dai language recognition, our laboratory has built a handwritten Dehong Dai language sample library SDH2019.2, which contains 35 categories, 620 samples for each category and 21700 sample images.
 
-#方法介绍
+#Methods
 
-针对本德宏傣文数据集，搭建了集成深度神经网络模型对手写德宏傣文数据（TaiLe）进行训练。
+In this paper, an integrated deep neural network model is built to train the hand writing of Dehong Dai language data (TAILE).
 
-#下载路径
-
-百度网盘：链接: https://pan.baidu.com/s/16XDPfbSfuHERL5nBkkq7iw ，如感兴趣，可以联系邮箱1129550657@qq.com
-
-数据集的使用仅限于科学研究，不得用于商业目的。
+The use of the data set is limited to scientific research and shall not be used for commercial purposes.
